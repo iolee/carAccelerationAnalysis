@@ -46,10 +46,17 @@ The finalized model uses a Log-Linear regression with the following predictors:
 
 
 Technologies Used
+
 Python 3.x
+
 Pandas & NumPy (Data Manipulation)
+
 Statsmodels (Statistical Modeling)
+
 Scikit-Learn (Cross-Validation & Preprocessing)
+
 Seaborn & Matplotlib (Visualization)
 
+
 ---
+
