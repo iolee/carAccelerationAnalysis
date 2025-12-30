@@ -36,4 +36,20 @@ The finalized model uses a Log-Linear regression with the following predictors:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/car-acceleration-physics.git
+   git clone https://github.com/iolee/carAccelerationAnalysis.git
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+3. Run the Jupyter Notebook:
+   ```bash
+   jupyter notebook analysis.ipynb
+
+
+Technologies Used
+Python 3.x
+Pandas & NumPy (Data Manipulation)
+Statsmodels (Statistical Modeling)
+Scikit-Learn (Cross-Validation & Preprocessing)
+Seaborn & Matplotlib (Visualization)
+
+---
